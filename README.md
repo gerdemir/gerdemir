@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I’m Gamze 👋
 
-<!--
-**gerdemir/gerdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student with an engineering background in **Industrial and Mechanical Engineering**, focused on building **data-driven solutions for real-world systems**.
 
-Here are some ideas to get you started:
+My work sits at the intersection of **analytics, machine learning, and engineering**, where I translate complex data into **actionable insights** for decision-making in manufacturing, energy, and operational environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care deeply about **interpretability, efficiency, and real-world impact**, and I approach data science with an engineer’s mindset: understand the system first, then optimize it.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Core Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+### 📊 Visualization & Apps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/seaborn" width="40"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
+
+---
+
+## 🧠 Concepts & Focus Areas
+
+**🤖 Artificial Intelligence & Machine Learning**  
+Supervised Learning · Classification · Regression · Model Evaluation  
+
+**📊 Data Analytics & Data Science**  
+Exploratory Data Analysis (EDA) · Feature Engineering · Data Preparation  
+
+**🔍 Model Interpretability & Explainability**  
+SHAP · Feature Importance · Trustworthy AI  
+
+**⚙️ Optimization & Systems Thinking**  
+Efficiency · Performance · Trade-offs · Engineering Decision-Making  
+
+**📈 Data Storytelling & Visualization**  
+Insight Communication · Dashboards · Decision Support
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: [gamze-esen-erdemir](www.linkedin.com/in/gamze-esen-erdemir)  
+
+> *Engineering explains how systems work. Data science shows how to improve them.*
