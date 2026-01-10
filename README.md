@@ -49,7 +49,7 @@ Insight Communication · Dashboards · Decision Support
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: [gamze-esen-erdemir](www.linkedin.com/in/gamze-esen-erdemir)  
+📫 Let’s Connect
+
 
 > *Engineering explains how systems work. Data science shows how to improve them.*
