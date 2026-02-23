@@ -22,8 +22,6 @@ I care deeply about **interpretability, efficiency, and real-world impact**, and
 ### 📊 Visualization & Apps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/seaborn" width="40"/>
-  <img src="https://cdn.simpleicons.org/powerbi" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
