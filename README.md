@@ -2,7 +2,7 @@
 
 I'm a BSc (Hons) Computer Science student in the AI specialization at Ontario Tech University, expected to graduate in December 2028.
 
-Before CS I studied industrial and mechanical engineering, and that background still shapes what I work on: plant and sensor data, machine failures, energy systems. I like starting from how a system actually runs and then asking what the data can tell us about it.
+Before CS I studied industrial and mechanical engineering and spent about seven years in manufacturing, in R&D, production planning and process improvement. That background still shapes what I work on: plant and sensor data, machine failures and energy systems, but also hiring, since I spent years building and managing teams. Lately I've also been getting into health tech. I like starting from how a system actually runs and then asking what the data can tell us about it.
 
 ## What I'm working on
 
@@ -13,13 +13,14 @@ Most of my current projects live in private repositories, so here is a short ove
   - *For employers:* every applicant is scored against the job description as soon as they apply, and the whole team works from one shared pipeline. It also covers interview kits and async video interviews, plus hiring analytics.
   - Because both sides are on the same platform, candidates get notified the moment their status changes, so nobody gets ghosted.
 - **Exergion** – a platform for biomass power plants, built around their SCADA and historian data, with thermodynamic analysis as one of its core modules.
-- **Boiler analysis** – a separate tool for analysing boiler performance from real plant historian exports: cleaning messy sensor data, lining up readings from different sources, and turning them into thermodynamic analysis.
+- **Boiler analysis** – a separate tool for analysing boiler performance from real plant historian exports: cleaning messy sensor data, lining up readings from different sources, and turning them into thermodynamic analysis, AI-generated insights and reports.
 - **Inferon** – a no-code machine learning platform: upload a dataset, train a model, deploy it and keep an eye on data drift.
 
 If any of these sound interesting, feel free to message me and I can walk you through them.
 
 ## Experience
 
+- **Founder, [Optimum Solutions AI](https://optimumsolutions.ai)** (Mar 2026–present, Oshawa) – where I build my own products, including Hyrion and Exergion.
 - **Software Engineer Intern, SaHera** (Jul–Sep 2026, remote, through Riipen) – worked on a health-tech mobile app, mainly on connecting it to a machine learning model and building frontend features in React Native.
 
 ## Research
@@ -42,4 +43,4 @@ Currently learning: deep learning (PyTorch, Hugging Face Transformers), LangChai
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/gamze-esen-erdemir)
+[LinkedIn](https://www.linkedin.com/in/gamze-esen-erdemir) · [optimumsolutions.ai](https://optimumsolutions.ai)
